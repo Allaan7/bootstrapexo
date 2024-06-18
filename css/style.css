@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
 .company{
     font-family: "Texturina", serif; 
 }
@@ -12,3 +16,11 @@ p{
     font-family: "Dosis", sans-serif;
     font-size: 40px;
 }
+.imgarch{
+    border: 5px solid black;
+}
+.image{
+    width: 600px;
+    
+}
+
